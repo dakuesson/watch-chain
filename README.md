@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 ## How to install & run the project
 
 ## User Guides
+https://docs.google.com/document/d/1tmLKMiBNx71cp9tT0_Rb_5ceqRAVv4D52r5YxisEiZA/edit?usp=sharing
